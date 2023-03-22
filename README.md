@@ -90,7 +90,9 @@ I am a passionate JavaScript Developer. I am a huge fan of ReactJS. Apart from J
 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
-<img src="https://img.shields.io/badge/C++-017C88?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+<img src="https://img.shields.io/badge/C++-010788?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+
+<img src="https://img.shields.io/badge/Arduino-017C88?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 
