@@ -6,11 +6,11 @@
 
 ### Who am I?
 
-My name is Md. Riyasat Hossain, well-known as TheCodeHeist. I am currently a High-school student in 9th Grade. I am a 15 years old Full Stack Web Developer from Bangladesh. I am also a former UI/UX Designer. I am a highly inquisitive person, always looking for new things to learn. I am a self-taught programmer and have about 6 years of experience in field of Web Development. I started my journey as a programmer when I was 9 years old. Trying to adapt with the updated high-tech world! 💪
+My name is Md Riyasat Hossain, well-known as TheCodeHeist. I am currently a High-school student, under International Advanced Level (IAL). I am a 18 years old Software Developer from Bangladesh. I am a highly inquisitive person, always looking for new things to learn. I am a self-taught programmer and have about 9 years of experience in field of Web Development. I started my journey as a programmer when I was 9 years old. Trying to adapt with the updated high-tech world! 💪
 
 ### What is my role?
 
-I am a passionate JavaScript Developer. I am a huge fan of ReactJS. Apart from JavaScript, I also learned TypeScript, Python and Dart. I am currently learning Rust.
+I make softwares using mainly TypeScript, Python and Rust, although I have some basics of other programming languages to remain flexible with any codebase.
 
 ## My Tech-stack
 
